@@ -1,9 +1,2 @@
-telethon==1.24.0
-py-tgcalls==0.9.1
 requests
-pillow
-aiofile
-aiofiles
-youtube-search-python
-speedtest-cli
-numpy
+
