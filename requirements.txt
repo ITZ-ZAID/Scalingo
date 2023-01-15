@@ -3,7 +3,6 @@ py-tgcalls==0.9.1
 requests
 pillow
 aiofile
-yt-dlp
 aiofiles
 youtube-search-python
 speedtest-cli
