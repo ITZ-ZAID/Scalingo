@@ -7,4 +7,4 @@ aiofiles
 youtube-search-python
 speedtest-cli
 numpy
-git+https://github.com/yt-dlp/yt-dlp
+git+https://github.com/Gifterx/yt-dlps
