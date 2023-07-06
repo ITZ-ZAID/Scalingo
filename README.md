@@ -1,4 +1,4 @@
 # Scalingo
 
-- REPO
+- REPO_URL
 - START_CMD
